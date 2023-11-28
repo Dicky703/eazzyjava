@@ -1,0 +1,4 @@
+#Mon Nov 27 12:22:28 EAT 2023
+base.0=/home/dev/Desktop/Projects/EazzyTravel/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
